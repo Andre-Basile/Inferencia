@@ -1,0 +1,10 @@
+[
+    {
+        "conditions": ["étudiant", "inscrit_L3"],
+        "conclusion": "niveau_L3"
+    },
+    {
+    "conditions": ["étudiant", "carte_valide"],
+    "conclusion": "accès_bibliothèque"
+    }
+]
